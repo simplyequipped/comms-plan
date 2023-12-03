@@ -146,5 +146,5 @@ HF radio supports long range communication with no infrastructure requirements. 
 
 Dark solid areas indicate two-way messaging coverage.
 
-![Spot-X coverage map](https://www.findmespot.com/SPOT/media/Coverage-Maps/spot-x-coverage.png)
+![Spot-X coverage map](static/spot-x-coverage.png)
 
