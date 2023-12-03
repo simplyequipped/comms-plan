@@ -104,20 +104,47 @@ HF radio supports long range communication with no infrastructure requirements. 
 - Identify a rechargable 12V source
 - Modify the QDX tranceiver to utilize 5V power from the USB data cable
 - Typical 40m JS8Call frequency is 7.078 MHz
+- General Class amateur radio license required to legally operate on the 40m bands
 
 #### Method Differentiation
 - No infrastructure
 - HF radio equipment
 
 
-## Appendix A - Add Alternate Gmail Account Verification Phone Number
+## Appendix A - Alternate Gmail Account Verification Phone Number
+#### Web Browser
+1. Navigate to [https://accounts.google.com](https://accounts.google.com)
+2. Log in to your account (if needed)
+3. Click the **Security** tab at the top of the page
+4. In the **How you sign in to Google** section, click **2-Step Verification phones**
+5. Enter your account password to verify your identity and click **Next**
+6. Click **+ Add a backupe 2-Step Verification phone**
+7. Enter the phone number for the device you want to add (ex. Spot-X) and click **Next**
+
+#### Android
+1. Open your device’s **Settings**
+2. Tap **Google**
+3. Tap **Manage your Google Account** near the top, just under your name
+4. Tap the **Security** tab near the top, just under your name (may need to scroll horizontaly)
+5. In the **How you sign in to Google** section, tab **2-Step Verification phones**
+6. Tap **Continue** and confirm your device's pin or fingerprint
+7. Tap **+ Add a backupe 2-Step Verification phone**
+8. Enter the phone number for the device you want to add (ex. Spot-X) and tap **Next**
+
+#### iPhone
+1. Open the Gmail app
+2. Tap your profile picture or initial in the top right corner
+3. Tap **Google Account**
+4. Tap the **Security** tab
+5. In the **Ways we can verify it's you** section, tap **Recovery phone**
+6. Sign in (if needed)
+7. Add a recovery phone
 
 ## Appendix B - Equipment Recommendations
 
 ## Appendix C - Spot-X Coverage Map
 
-![Spot-X coverage map](https://www.findmespot.com/SPOT/media/Coverage-Maps/spot-x-coverage.png)
-
 Dark solid areas indicate two-way messaging coverage.
 
+![Spot-X coverage map](https://www.findmespot.com/SPOT/media/Coverage-Maps/spot-x-coverage.png)
 
