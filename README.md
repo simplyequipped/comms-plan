@@ -6,7 +6,7 @@ December 3, 2023
 | Method      | Description |
 | ----------- | ----------- |
 | Primary     | Voice calls and text messaging via cell phone |
-| Alternate   | E-mail via smartphone, computer, or tablet    |
+| Alternate   | E-mail via cell phone, computer, or tablet    |
 | Contingency | Text messaging via Spot-X satellite messenger |
 | Emergency   | Text-based messaging via JS8Call and HF radio |
 
@@ -17,7 +17,7 @@ This plan is designed to ensure reliable communication regardless of the situati
 
 
 ## Primary Communication Method
-#### Voice calls and text messaging via cell phone
+#### Voice Calls and Text Messaging via Cell Phone
 
 Cell phones are a commonly used and accessible method of communication. They are portable and easy to use for both voice calls and text messages. It is important to consider that during emergencies, cell phone networks can become overloaded and may not be available. If a voice call cannot get through or is unreliable, a text message will often still get through.
 
@@ -33,13 +33,13 @@ Cell phones are a commonly used and accessible method of communication. They are
 - Identify alternative charging options (ex. vehicle, solar panel)
 - Use encrypted apps for secure communications (ex. Signal, Telegram)
 
-#### Differentiation
+#### Method Differentiation
 - Cellular network infrastructure
 - Cell phone equipment
 
 
 ## Alternate Communication Method
-#### E-mail via smartphone, computer, or tablet
+#### E-mail via Cell Phone, Computer, or Tablet
 
 E-mail is another common method of communication. Any computer can provide access to a web based email account if a cell phone is lost or damaged. E-mail requires internet access, which may be available even if the cell phone network is unavailable. However, internet access can be interrupted during a power outage or other emergency.
 
@@ -54,13 +54,13 @@ E-mail is another common method of communication. Any computer can provide acces
 - Add local Spot-X satellite messenger phone number as an account verification option (see Appendix A)
 - Know how to access web based e-mail from a device other than the one your typically use
 
-#### Differentiation
+#### Method Differentiation
 - Internet infrastructure
 - Computer equipment
 
 
 ## Contingency Communication Method
-#### Text messaging via Spot-X satellite messenger
+#### Text Messaging via Spot-X Satellite Messenger
 
 Satellite based messaging is a reliable form of communication when local infrastructure is unavailable. The Spot-X satellite messenger has a small keybord for text entry, making it a standalone device. The Spot-X device has a dedicated phone number, and uses the Global Star satellite network to enable two-way (incoming and outgoing) text messaging. See global coverage map in Appendix C.
 
@@ -77,13 +77,13 @@ Satellite based messaging is a reliable form of communication when local infrast
 - Enable ubscription auto-renew to ensure availability
 - Requires a clear view of the sky to reliably communicate
 
-#### Differentiation
+#### Method Differentiation
 - GlobalStar satellite network infrastructure
 - Spot-X messenger quipment
 
 
 ## Emergency Communication Method
-#### Text-based messaging via JS8Call and HF radio
+#### Text-Based Messaging via JS8Call and HF Radio
 
 HF radio supports long range communication with no infrastructure requirements. However, the equipment is less readily available and has a steeper learning curve. JS8Call modem software and the QRPLabs QDX digital tranceiver offer the least complexity and the most consistent reliability and functionality.
 
@@ -105,7 +105,7 @@ HF radio supports long range communication with no infrastructure requirements. 
 - Modify the QDX tranceiver to utilize 5V power from the USB data cable
 - Typical 40m JS8Call frequency is 7.078 MHz
 
-#### Differentiation
+#### Method Differentiation
 - No infrastructure
 - HF radio equipment
 
