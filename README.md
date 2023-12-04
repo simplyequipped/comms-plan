@@ -142,6 +142,8 @@ HF radio supports long range communication with no infrastructure requirements. 
 
 ## Appendix B - Equipment Recommendations
 
+WIP
+
 ## Appendix C - Spot-X Coverage Map
 
 Dark solid areas indicate two-way messaging coverage.
