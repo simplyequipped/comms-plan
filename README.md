@@ -51,7 +51,7 @@ E-mail is another common method of communication. Any computer can provide acces
 
 #### Considerations
 - Identify different computers for e-mail and HF radio use
-- Add local Spot-X satellite messenger phone number as an account verification option (see Appendix A)
+- Add Spot-X satellite messenger phone number as a Google account verification option (see Appendix A)
 - Know how to access web based e-mail from a device other than the one your typically use
 
 #### Method Differentiation
@@ -111,7 +111,7 @@ HF radio supports long range communication with no infrastructure requirements. 
 - HF radio equipment
 
 
-## Appendix A - Alternate Gmail Account Verification Phone Number
+## Appendix A - Alternate Google Account Verification Phone Number
 #### Web Browser
 1. Navigate to [https://accounts.google.com](https://accounts.google.com)
 2. Log in to your account (if needed)
