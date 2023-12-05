@@ -1,5 +1,5 @@
 # Communication Plan
-December 3, 2023
+December 5, 2023
 
 ## Quick Reference
 
@@ -23,14 +23,14 @@ Cell phones are a commonly used and accessible method of communication. They are
 
 #### Equipment On-Hand
 - Cell phone
-- Charging cable
-- Wall charger
-- 12V vehicle charger
-- USB battery pack
-- Small solar panel (10-30 Watts)
+- [USB charging cable](https://www.amazon.com/gp/product/B07215381G/)
+- [USB wall charger](https://www.amazon.com/gp/product/B08GSDZKPD/)
+- [USB vehicle charger](https://www.amazon.com/gp/product/B07PGT7LSR/)
+- [USB battery pack](https://www.amazon.com/gp/product/B00Z9QVE4Q/)
+- [Portable solar panel](https://www.amazon.com/gp/product/B012YZXMZS/)
 
 #### Considerations
-- Identify alternative charging options (ex. vehicle, solar panel)
+- Identify alternative charging options
 - Use encrypted apps for secure communications (ex. Signal, Telegram)
 
 #### Method Differentiation
@@ -47,7 +47,7 @@ E-mail is another common method of communication. Any computer can provide acces
 - Laptop or tablet
 - Charging cable
 - Wall charger
-- 12V vehicle inverter (400 Watts)
+- [Vehicle inverter](https://www.amazon.com/gp/product/B09WYPCMT4/?th=1)
 
 #### Considerations
 - Identify different computers for e-mail and HF radio use
@@ -62,15 +62,15 @@ E-mail is another common method of communication. Any computer can provide acces
 ## Contingency Communication Method
 #### Text Messaging via Spot-X Satellite Messenger
 
-Satellite based messaging is a reliable form of communication when local infrastructure is unavailable. The Spot-X satellite messenger has a small keybord for text entry, making it a standalone device. The Spot-X device has a dedicated phone number, and uses the Global Star satellite network to enable two-way (incoming and outgoing) text messaging. See global coverage map in Appendix C.
+Satellite based messaging is a reliable form of communication when local infrastructure is unavailable. The Spot-X satellite messenger has a small keybord for text entry, making it a standalone device. The Spot-X device has a dedicated phone number, and uses the Global Star satellite network to enable two-way (incoming and outgoing) text messaging. See global coverage map in Appendix B.
 
 #### Equipment On-Hand
-- Spot-X satellite messenger
-- Charging cable (micro-USB)
-- Wall charger
-- 12V vehicle charger
-- USB battery pack
-- Small solar panel (10-30 Watts)
+- [Spot-X satellite messenger](https://www.findmespot.com/en-us/products-services/spot-x)
+- [USB charging cable](https://www.amazon.com/gp/product/B07215381G/)
+- [USB wall charger](https://www.amazon.com/gp/product/B08GSDZKPD/)
+- [USB vehicle charger](https://www.amazon.com/gp/product/B07PGT7LSR/)
+- [USB battery pack](https://www.amazon.com/gp/product/B00Z9QVE4Q/)
+- [Portable solar panel](https://www.amazon.com/gp/product/B012YZXMZS/)
 
 #### Considerations
 - Initial account and subscription setup requires internet access
@@ -79,7 +79,7 @@ Satellite based messaging is a reliable form of communication when local infrast
 
 #### Method Differentiation
 - GlobalStar satellite network infrastructure
-- Spot-X messenger equipment
+- Spot-X satellite messenger equipment
 
 
 ## Emergency Communication Method
@@ -89,19 +89,19 @@ HF radio supports long range communication with no infrastructure requirements. 
 
 #### Equipment On-Hand
 - Microsoft Surface or other portable computer
-- JS8Call software (installed and configured)
-- QRPLabs QDX digital tranceiver
-- QDX 12V power cable
-- QDX USB (type-B) data cable
-- 12V power source for QDX
-- 40m dipole antenna (BNC connection)
-- BNC coaxial cable (50 ohm)
+- [JS8Call software](http://files.js8call.com/latest.html) (installed and configured)
+- [QRPLabs QDX digital tranceiver](http://shop.qrp-labs.com/qdx)
+- [QDX 12V power cable](https://shop.qrp-labs.com/powerplug)
+- [QDX USB type-B data cable](https://www.amazon.com/gp/product/B002KL26JA/)
+- [12V power source for QDX](https://www.amazon.com/gp/product/B01M7Z9Z1N/)
+- [40m dipole antenna (BNC connection)](https://www.ebay.com/itm/164288863566)
+- [BNC coaxial cable (50 ohm)](https://www.amazon.com/gp/product/B00O071OAE)
 
 #### Considerations
 - Identify different computers for e-mail and HF radio use
 - Setup equipment and use JS8Call software periodically to maintain familiarity
 - A regulated 12V source is required for the QDX tranceiver
-- Identify a rechargable 12V source
+- Identify an [easily rechargable 12V source](https://www.amazon.com/gp/product/B07SR337PP/)
 - Modify the QDX tranceiver to utilize 5V power from the USB data cable
 - Typical 40m JS8Call frequency is 7.078 MHz
 - General Class amateur radio license required to legally operate on the 40m bands
@@ -140,11 +140,7 @@ HF radio supports long range communication with no infrastructure requirements. 
 6. Sign in (if needed)
 7. Add a recovery phone
 
-## Appendix B - Equipment Recommendations
-
-WIP
-
-## Appendix C - Spot-X Coverage Map
+## Appendix B - Spot-X Coverage Map
 
 Dark solid areas indicate two-way messaging coverage.
 
