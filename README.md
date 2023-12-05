@@ -15,6 +15,7 @@ December 5, 2023
 
 This plan is designed to ensure reliable communication regardless of the situation. Each communication method has been chosen for variation in underlying infrastructure and equipment requirements. Equipment has been chosen based on availability, ease of use, and cost (one-time and reoccuring).
 
+<div style="page-break-after: always;"></div>
 
 ## Primary Communication Method
 #### Voice Calls and Text Messaging via Cell Phone
@@ -37,6 +38,7 @@ Cell phones are a commonly used and accessible method of communication. They are
 - Cellular network infrastructure
 - Cell phone equipment
 
+<div style="page-break-after: always;"></div>
 
 ## Alternate Communication Method
 #### E-mail via Cell Phone, Computer, or Tablet
@@ -58,6 +60,7 @@ E-mail is another common method of communication. Any computer can provide acces
 - Internet infrastructure
 - Computer equipment
 
+<div style="page-break-after: always;"></div>
 
 ## Contingency Communication Method
 #### Text Messaging via Spot-X Satellite Messenger
@@ -81,6 +84,7 @@ Satellite based messaging is a reliable form of communication when local infrast
 - GlobalStar satellite network infrastructure
 - Spot-X satellite messenger equipment
 
+<div style="page-break-after: always;"></div>
 
 ## Emergency Communication Method
 #### Text-Based Messaging via JS8Call and HF Radio
@@ -110,6 +114,7 @@ HF radio supports long range communication with no infrastructure requirements. 
 - No infrastructure
 - HF radio equipment
 
+<div style="page-break-after: always;"></div>
 
 ## Appendix A - Alternate Google Account Verification Phone Number
 #### Web Browser
@@ -139,6 +144,8 @@ HF radio supports long range communication with no infrastructure requirements. 
 5. In the **Ways we can verify it's you** section, tap **Recovery phone**
 6. Sign in (if needed)
 7. Add a recovery phone
+
+<div style="page-break-after: always;"></div>
 
 ## Appendix B - Spot-X Coverage Map
 
