@@ -41,7 +41,7 @@ Cell phones are a commonly used and accessible method of communication. They are
 ## Alternate Communication Method
 #### E-mail via Cell Phone, Computer, or Tablet
 
-E-mail is another common method of communication. Any computer can provide access to a web based email account if a cell phone is lost or damaged. E-mail requires internet access, which may be available even if the cell phone network is unavailable. However, internet access can be interrupted during a power outage or other emergency.
+E-mail is another common method of communication. Any computer can provide access to a web based e-mail account if a cell phone is lost or damaged. E-mail requires internet access, which may be available even if the cell phone network is unavailable. However, internet access can be interrupted during a power outage or other emergency.
 
 #### Equipment On-Hand
 - Laptop or tablet
@@ -52,7 +52,7 @@ E-mail is another common method of communication. Any computer can provide acces
 #### Considerations
 - Identify different computers for e-mail and HF radio use
 - Add Spot-X satellite messenger phone number as a Google account verification option (see Appendix A)
-- Know how to access web based e-mail from a device other than the one your typically use
+- Know how to access web based e-mail from a device other than the one you typically use
 
 #### Method Differentiation
 - Internet infrastructure
@@ -74,18 +74,18 @@ Satellite based messaging is a reliable form of communication when local infrast
 
 #### Considerations
 - Initial account and subscription setup requires internet access
-- Enable ubscription auto-renew to ensure availability
+- Enable subscription auto-renew to ensure availability
 - Requires a clear view of the sky to reliably communicate
 
 #### Method Differentiation
 - GlobalStar satellite network infrastructure
-- Spot-X messenger quipment
+- Spot-X messenger equipment
 
 
 ## Emergency Communication Method
 #### Text-Based Messaging via JS8Call and HF Radio
 
-HF radio supports long range communication with no infrastructure requirements. However, the equipment is less readily available and has a steeper learning curve. JS8Call modem software and the QRPLabs QDX digital tranceiver offer the least complexity and the most consistent reliability and functionality.
+HF radio supports long range communication with no infrastructure requirements. However, the equipment is less readily available and has a steeper learning curve. JS8Call modem software and the QRPLabs QDX digital tranceiver offer the least complexity and the most consistent communication link reliability.
 
 #### Equipment On-Hand
 - Microsoft Surface or other portable computer
@@ -99,7 +99,7 @@ HF radio supports long range communication with no infrastructure requirements. 
 
 #### Considerations
 - Identify different computers for e-mail and HF radio use
-- Setup equipment and Use JS8Call software periodically to maintain familiarity
+- Setup equipment and use JS8Call software periodically to maintain familiarity
 - A regulated 12V source is required for the QDX tranceiver
 - Identify a rechargable 12V source
 - Modify the QDX tranceiver to utilize 5V power from the USB data cable
