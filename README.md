@@ -89,8 +89,8 @@ HF radio supports long range communication with no infrastructure requirements. 
 
 #### Equipment On-Hand
 - Microsoft Surface or other portable computer
-- [JS8Call software](files.js8call.com/latest.html) (installed and configured)
-- [QRPLabs QDX digital tranceiver](http://shop.qrp-labs.com/qdx)
+- [JS8Call software](https://files.js8call.com/latest.html) (installed and configured)
+- [QRPLabs QDX digital tranceiver](https://shop.qrp-labs.com/qdx)
 - [QDX 12V power cable](https://shop.qrp-labs.com/powerplug)
 - [QDX USB type-B data cable](https://www.amazon.com/gp/product/B002KL26JA/)
 - [12V power source for QDX](https://www.amazon.com/gp/product/B01M7Z9Z1N/)
