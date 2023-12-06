@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
-          input_dir: README.md
+          input_path: README.md
           output_dir: pdf
           images_dir: static
           # Default is true, can set to false to only get PDF files
