@@ -19,9 +19,8 @@ jobs:
           output_dir: pdf
           images_dir: static
           # Default is true, can set to false to only get PDF files
-          build_html: false
+          build_html: true
           build_pdf: true
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v3.1.3
         with:
-          name: docs
-          path: pdf
+          path: README.pdf
