@@ -20,7 +20,8 @@ jobs:
           images_dir: static
           # Default is true, can set to false to only get PDF files
           build_html: false
+          build_pdf: true
       - uses: actions/upload-artifact@v3
         with:
-          name: pdf
+          name: docs
           path: pdf
