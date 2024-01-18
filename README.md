@@ -1,5 +1,5 @@
 # Communication Plan
-December 5, 2023
+January 18th, 2024
 
 ## Quick Reference
 
