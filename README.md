@@ -105,8 +105,8 @@ HF radio supports long range communication with no infrastructure requirements. 
 - Identify different computers for e-mail and HF radio use
 - Setup equipment and use JS8Call software periodically to maintain familiarity
 - A regulated 12V source is required for the QDX tranceiver
-- Identify an [easily rechargable 12V source](https://www.amazon.com/gp/product/B07SR337PP/)
-- Modify the QDX tranceiver to utilize 5V power from the USB data cable
+- Identify an [easily rechargable 12V source](https://www.amazon.com/gp/product/B07SR337PP/) for computer
+- Modify the QDX tranceiver to utilize 5V power from the USB data cable (0.1 Watt transmit power, procedure TBD)
 - Typical 40m JS8Call frequency is 7.078 MHz
 - General Class amateur radio license required to legally operate on the 40m bands
 
