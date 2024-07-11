@@ -1,5 +1,5 @@
 # Communication Plan
-January 18th, 2024
+July 11th, 2024
 
 ## Quick Reference
 
@@ -65,7 +65,7 @@ E-mail is another common method of communication. Any computer can provide acces
 ## Contingency Communication Method
 #### Text Messaging via Spot-X Satellite Messenger
 
-Satellite based messaging is a reliable form of communication when local infrastructure is unavailable. The Spot-X satellite messenger has a small keybord for text entry, making it a standalone device. The Spot-X device has a dedicated phone number, and uses the Global Star satellite network to enable two-way (incoming and outgoing) text messaging. See global coverage map in Appendix B.
+Satellite based messaging is a reliable form of communication when local infrastructure is unavailable. The Spot-X satellite messenger has a small keybord for text entry, making it a standalone device. The Spot-X device has a dedicated phone number, and uses the GlobalStar satellite network to enable two-way (incoming and outgoing) text messaging. See the global coverage map in Appendix B.
 
 #### Equipment On-Hand
 - [Spot-X satellite messenger](https://www.findmespot.com/en-us/products-services/spot-x)
@@ -108,7 +108,7 @@ HF radio supports long range communication with no infrastructure requirements. 
 - Identify an [easily rechargable 12V source](https://www.amazon.com/gp/product/B07SR337PP/) for computer
 - Modify the QDX tranceiver to utilize 5V power from the USB data cable (0.1 Watt transmit power, procedure TBD)
 - Typical 40m JS8Call frequency is 7.078 MHz
-- General Class amateur radio license required to legally operate on the 40m bands
+- General Class amateur radio license required to legally transmit on amateur radio bands
 
 #### Method Differentiation
 - No infrastructure
@@ -123,17 +123,17 @@ HF radio supports long range communication with no infrastructure requirements. 
 3. Click the **Security** tab at the top of the page
 4. In the **How you sign in to Google** section, click **2-Step Verification phones**
 5. Enter your account password to verify your identity and click **Next**
-6. Click **+ Add a backupe 2-Step Verification phone**
+6. Click **+ Add a backup 2-Step Verification phone**
 7. Enter the phone number for the device you want to add (ex. Spot-X) and click **Next**
 
 #### Android
 1. Open your device’s **Settings**
 2. Tap **Google**
 3. Tap **Manage your Google Account** near the top, just under your name
-4. Tap the **Security** tab near the top, just under your name (may need to scroll horizontaly)
-5. In the **How you sign in to Google** section, tab **2-Step Verification phones**
+4. Tap the **Security** tab near the top, just under your name (you may need to scroll horizontaly)
+5. In the **How you sign in to Google** section, tap **2-Step Verification phones**
 6. Tap **Continue** and confirm your device's pin or fingerprint
-7. Tap **+ Add a backupe 2-Step Verification phone**
+7. Tap **+ Add a backup 2-Step Verification phone**
 8. Enter the phone number for the device you want to add (ex. Spot-X) and tap **Next**
 
 #### iPhone
@@ -143,7 +143,7 @@ HF radio supports long range communication with no infrastructure requirements. 
 4. Tap the **Security** tab
 5. In the **Ways we can verify it's you** section, tap **Recovery phone**
 6. Sign in (if needed)
-7. Add a recovery phone
+7. Add a recovery phone number
 
 <div style="page-break-after: always;"></div>
 
