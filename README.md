@@ -22,7 +22,7 @@ This plan is designed to ensure reliable communication regardless of the situati
 
 Cell phones are a commonly used and accessible method of communication. They are portable and easy to use for both voice calls and text messages. It is important to consider that during emergencies, cell phone networks can become overloaded and may not be available. If a voice call cannot get through or is unreliable, a text message will often still get through.
 
-#### Equipment On-Hand
+#### Equipment Recommendations
 - Cell phone
 - [USB charging cable](https://www.amazon.com/gp/product/B07215381G/)
 - [USB wall charger](https://www.amazon.com/gp/product/B08GSDZKPD/)
@@ -45,7 +45,7 @@ Cell phones are a commonly used and accessible method of communication. They are
 
 E-mail is another common method of communication. Any computer can provide access to a web based e-mail account if a cell phone is lost or damaged. E-mail requires internet access, which may be available even if the cell phone network is unavailable. However, internet access can be interrupted during a power outage or other emergency.
 
-#### Equipment On-Hand
+#### Equipment Recommendations
 - Laptop or tablet
 - Charging cable
 - Wall charger
@@ -67,7 +67,7 @@ E-mail is another common method of communication. Any computer can provide acces
 
 Satellite based messaging is a reliable form of communication when local infrastructure is unavailable. The Spot-X satellite messenger has a small keybord for text entry, making it a standalone device. The Spot-X device has a dedicated phone number, and uses the GlobalStar satellite network to enable two-way (incoming and outgoing) text messaging. See the global coverage map in Appendix B.
 
-#### Equipment On-Hand
+#### Equipment Recommendations
 - [Spot-X satellite messenger](https://www.findmespot.com/en-us/products-services/spot-x)
 - [USB charging cable](https://www.amazon.com/gp/product/B07215381G/)
 - [USB wall charger](https://www.amazon.com/gp/product/B08GSDZKPD/)
@@ -91,7 +91,7 @@ Satellite based messaging is a reliable form of communication when local infrast
 
 HF radio supports long range communication with no infrastructure requirements. However, the equipment is less readily available and has a steeper learning curve. JS8Call modem software and the QRPLabs QDX digital tranceiver offer the least complexity and the most consistent communication link reliability.
 
-#### Equipment On-Hand
+#### Equipment Recommendations
 - Microsoft Surface or other portable computer
 - [JS8Call software](http://files.js8call.com/latest.html) (installed and configured)
 - [QRPLabs QDX digital tranceiver](https://shop.qrp-labs.com/qdx)
